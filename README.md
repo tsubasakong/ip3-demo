@@ -1,2 +1,4 @@
 
 IP3 is the foundational infrastructure designed to revolutionize the global intellectual property (IP) management system. Harnessing the power of decentralized technologies, IPillar offers a transformative infrastructure that streamlines the IP licensing process, eliminates traditional agent models, ensures reasonable pricing, and improves value distribution across various IPs. 
+
+IP3 license protocol redefines the IP licensing process by making it faster, more efficient, and accessible to everyone. This License Protocol deprecates the traditional agent model and employs a decentralized on-chain Automated Market Maker (AMM) smart price mechanism, along with community-owned mathematical formulas. By adjusting IP licensing prices based on supply and demand, this protocol ensures a more transparent and fair pricing system for all parties involved. This streamlined process significantly increases IP adaptation and creates motivation for both IP creators and customers.
